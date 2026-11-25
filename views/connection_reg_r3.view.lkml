@@ -1,4 +1,4 @@
-# test
+# test2
 
 # The name of this view in Looker is "Connection Reg R3"
 view: connection_reg_r3 {
